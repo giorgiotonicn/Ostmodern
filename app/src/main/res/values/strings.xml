@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ostmodern test</string>
+    <string name="set_error_title">Something was wrong</string>
+    <string name="set_error_msg">Please retry!</string>
+</resources>
